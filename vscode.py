@@ -9,8 +9,13 @@ EXTENSIONS = {
     "docker": ["ms-azuretools.vscode-docker"],
     "python": ["ms-python.python"],
     "node": ["dbaeumer.vscode-eslint"],
-    "git": ["sidneys1.gitconfig", "eamodio.gitlens"]
-
+    "git": ["sidneys1.gitconfig", "eamodio.gitlens"],
+    "bash": ["foxundermoon.shell-format"],
+    "yaml": ["redhat.vscode-yaml"],
+    "csv": ["mechatroner.rainbow-csv"],
+    "mssql": ["ms-mssql.mssql"],
+    "kubernetes": ["ms-kubernetes-tools.vscode-kubernetes-tools"],
+    "markdown": ["davidanson.vscode-markdownlint"]
 }
 
 
