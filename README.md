@@ -1,6 +1,20 @@
 # install
 
-A generalist's guide to ubuntu
+An installation guide to setting up a new ubuntu machine.
+
+- [install](#install)
+  - [apt](#apt)
+  - [VSCode](#vscode)
+  - [Sublime](#sublime)
+  - [Git](#git)
+  - [SSH for git](#ssh-for-git)
+  - [Git prompt](#git-prompt)
+  - [Docker & docker compose](#docker--docker-compose)
+  - [Python](#python)
+  - [Node](#node)
+  - [Brave](#brave)
+  - [anydesk](#anydesk)
+  - [htop](#htop)
 
 ## apt
 
