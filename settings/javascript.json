@@ -1,13 +1,9 @@
 {
-    "html": {
+    "[html]": {
         "editor.tabSize": 4
     },
-    "files.associations": {
-        "[Dd]ockerfile*": "dockerfile",
-        "docker-compose*": "yaml"
-    },
     "[javascript]": {
-        "editor.tabSize": 2 
+        "editor.tabSize": 2
     },
     "[yaml]": {
         "editor.tabSize": 2
@@ -15,9 +11,11 @@
     "[typescript]": {
         "editor.tabSize": 2
     },
-    "eslint.enable": true,
     "eslint.run": "onSave",
-    "eslint.validate": ["javascript", "html"],
+    "eslint.validate": [
+        "javascript",
+        "html"
+    ],
     "eslint.options": {
         "useEslintrc": true,
         "configFile": "str(eslintrc_json)"
